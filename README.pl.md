@@ -27,7 +27,7 @@
 - **Skróty klawiszowe:**
   - `Ctrl+F2` — ukryj/pokaż HUD;
   - `Ctrl+F3` — ukryj/pokaż timery wydarzeń (pojawiają się automatycznie 15 minut przed startem, nawet gdy ukryte).
-- Okno HUD jest widoczne **tylko nad aktywnym oknem gry** (przypięcie do BrokenRanks.exe); obsługiwane jest automatyczne zwijanie i szybkie rozwijanie.
+- **Wyświetlanie HUD:** nakładka może być widoczna **tylko nad aktywnym oknem gry** (ustawiane w ustawieniach); obsługiwane jest automatyczne zwijanie i szybkie rozwijanie.
 
 <img src="images/hud.png" alt="Główne okno HUD" width="347">
 
@@ -58,9 +58,9 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 
 ## 5. Magazyn
 
-- **Przeglądarka skrzyń** — zawartość wszystkich skrzyń magazynu z ikonami.
+- **Przeglądarka skrzyń** — zawartość wszystkich skrzyń magazynu z ikonami (odświeżane przy wejściu do Magazynu w grze, każda skrzynia osobno).
 - **Widok „Wszystkie magazyny"** — wspólna lista z podświetleniem „Wszystko".
-- **Kafelki** przedmiotów z ikonami (ekwipunek — z pól pakietu), numer skrzyni w rogu kafelka, ikony przypiętych orbów (wszystkie 10 poziomów), liczba pod numerem skrzyni.
+- **Kafelki** przedmiotów z ikonami (ekwipunek — z pól pakietu), numer skrzyni w rogu kafelka, ikony przypiętych orbów, liczba pod numerem skrzyni.
 - **Filtry i kategorie** — wyszukiwanie (w tym bez apostrofów), checkbox „Przypięte", złota ramka zaznaczenia, ikony złota i platyny.
 - Wyświetlane są także przedmioty poza walką (ikona „+N" przy przychodzących przedmiotach).
 

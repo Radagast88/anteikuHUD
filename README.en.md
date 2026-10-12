@@ -27,7 +27,7 @@
 - **Hotkeys:**
   - `Ctrl+F2` — hide/show HUD;
   - `Ctrl+F3` — hide/show event timers (they automatically appear 15 minutes before the start, even when hidden).
-- The HUD window is visible **only above the active game window** (attached to BrokenRanks.exe); auto-collapse and quick expand are supported.
+- **HUD display:** the overlay can be shown **only above the active game window** (set in the settings); auto-collapse and quick expand are supported.
 
 <img src="images/hud.png" alt="Main HUD window" width="347">
 
@@ -58,9 +58,9 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 
 ## 5. Storage
 
-- **Chest viewer** — contents of all storage chests with icons.
+- **Chest viewer** — contents of all storage chests with icons (refreshed when you enter the Storage in game, each chest separately).
 - **"All storages" view** — a common list with an "All" highlight.
-- **Tiles** of items with icons (equipment — from packet fields), chest number in the tile corner, bound orb icons (all 10 tiers), number under the chest number.
+- **Tiles** of items with icons (equipment — from packet fields), chest number in the tile corner, bound orb icons, number under the chest number.
 - **Filters and categories** — search (including without apostrophes), "Bound" checkbox, golden border for the selection, gold and platinum icons.
 - Items outside combat are shown as well ("+N" icon for incoming items).
 
