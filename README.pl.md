@@ -56,15 +56,15 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 
 <img src="images/goals.png" alt="Paski postępu celów" width="446">
 
-## 5. Magazyn
+## 5. Depozyt
 
-- **Przeglądarka skrzyń** — zawartość wszystkich skrzyń magazynu z ikonami (odświeżane przy wejściu do Magazynu w grze, każda skrzynia osobno).
-- **Widok „Wszystkie magazyny"** — wspólna lista z podświetleniem „Wszystko".
+- **Przeglądarka skrzyń** — zawartość wszystkich skrzyń depozytu z ikonami (odświeżane przy wejściu do Depozytu w grze, każda skrzynia osobno).
+- **Widok „Wszystkie depozyty"** — wspólna lista z podświetleniem „Wszystko".
 - **Kafelki** przedmiotów z ikonami (ekwipunek — z pól pakietu), numer skrzyni w rogu kafelka, ikony przypiętych orbów, liczba pod numerem skrzyni.
 - **Filtry i kategorie** — wyszukiwanie (w tym bez apostrofów), checkbox „Przypięte", złota ramka zaznaczenia, ikony złota i platyny.
 - Wyświetlane są także przedmioty poza walką (ikona „+N" przy przychodzących przedmiotach).
 
-<img src="images/storage.png" alt="Magazyn" width="381">
+<img src="images/storage.png" alt="Depozyt" width="381">
 
 ## 6. Składanie
 

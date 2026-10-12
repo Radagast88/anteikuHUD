@@ -56,15 +56,15 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 
 <img src="images/goals.png" alt="Goal progress bars" width="446">
 
-## 5. Storage
+## 5. Deposit
 
-- **Chest viewer** — contents of all storage chests with icons (refreshed when you enter the Storage in game, each chest separately).
-- **"All storages" view** — a common list with an "All" highlight.
+- **Chest viewer** — contents of all chests in the Deposit with icons (refreshed when you enter the Deposit in game, each chest separately).
+- **"All deposits" view** — a common list with an "All" highlight.
 - **Tiles** of items with icons (equipment — from packet fields), chest number in the tile corner, bound orb icons, number under the chest number.
 - **Filters and categories** — search (including without apostrophes), "Bound" checkbox, golden border for the selection, gold and platinum icons.
 - Items outside combat are shown as well ("+N" icon for incoming items).
 
-<img src="images/storage.png" alt="Storage" width="381">
+<img src="images/storage.png" alt="Deposit" width="381">
 
 ## 6. Assembly
 
