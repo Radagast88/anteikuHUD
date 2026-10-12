@@ -29,6 +29,8 @@
   - `Ctrl+F3` — ukryj/pokaż timery wydarzeń (pojawiają się automatycznie 15 minut przed startem, nawet gdy ukryte).
 - Okno HUD jest widoczne **tylko nad aktywnym oknem gry** (przypięcie do BrokenRanks.exe); obsługiwane jest automatyczne zwijanie i szybkie rozwijanie.
 
+<img src="images/hud.png" alt="Główne okno HUD" width="347">
+
 ## 3. Okna statystyk
 
 Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry** (od poniedziałku 00:00) oraz **miesiąc gry** (od 1. dnia 00:00) — według czasu polskiego (serwerowego), a także filtry według postaci.
@@ -41,12 +43,18 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
   - **Opłaty za bossów** — faktyczne płatności za wejście do bossów;
   - **Arena** — statystyki areny i opłaty za wejście według poziomów.
 
+<img src="images/stats.png" alt="Okno statystyk" width="498">
+
+<img src="images/analytics.png" alt="Okno analizy" width="735">
+
 ## 4. Cele i postęp
 
 - **Paski postępu celów** — osobne okno z paskiem dla każdego celu.
 - **Cel na żywo: zestaw pożądanych przedmiotów** — ustaw listę przedmiotów, a HUD podpowie, co już wypadło/zebrano; wybór przedmiotów przez okno wyboru.
 - **ETA celu** — oszacowanie czasu do osiągnięcia celu; dla ograniczonych lokacji — termin kalendarzowy; uwzględnia limit szansy na rare'a.
 - Cele można ustawiać na odłamki, psycho, złoto i zestaw przedmiotów.
+
+<img src="images/goals.png" alt="Paski postępu celów" width="446">
 
 ## 5. Magazyn
 
@@ -56,16 +64,22 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 - **Filtry i kategorie** — wyszukiwanie (w tym bez apostrofów), checkbox „Przypięte", złota ramka zaznaczenia, ikony złota i platyny.
 - Wyświetlane są także przedmioty poza walką (ikona „+N" przy przychodzących przedmiotach).
 
+<img src="images/storage.png" alt="Magazyn" width="381">
+
 ## 6. Składanie
 
 - **Okno „Składanie"** — co z zawartości skrzyń można już połączyć (drifty, orby, synergistyczne) według zasad gry: drifty porównywane po rozmiarze, orby grupowane po kategorii poziomu, synergistyczne zbierane po randze.
 - **Widok kafelkowy** z nazwami z pakietu, przewijanie stronami.
 - Zakładka „Synergistyczne" — informacja o składzie według rang.
 
+<img src="images/assembly.png" alt="Okno składania" width="381">
+
 ## 7. Ulubione i powiadomienia
 
 - **Ulubione** — zaznaczaj cenne przedmioty, orby i drifty, ekwipunek do wizualnego powiadamiania przy zdobyciu.
 - **Wyskakujące powiadomienia** — ikony zdobyczy/wydatków pojawiają się po prawej stronie nagłówka HUD na przezroczystym tle; rozmiar ikony, przezroczystość i czas wyświetlania są konfigurowalne.
+
+<img src="images/notifications.png" alt="Ulubione i powiadomienia" width="440">
 
 ## 8. Wydarzenia
 
@@ -74,12 +88,14 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 - **Wyświetlanie** — standardowe: tekstem; eksperymentalne: okrągłe ikony z wizualnym odliczaniem timera jak na mapie w grze.
 - **Przypięcie do krawędzi ekranu** i lustrzany układ (dla wielu monitorów); rozmiar kółek jest zapamiętywany.
 
-## 10. Dane i import
+<img src="images/events.png" alt="Timery wydarzeń" width="420">
+
+## 9. Dane i import
 
 - **Import z BrokenHud** — przeniesienie sesji z zewnętrznego programu.
 - **Import naszej bazy** i okno **„Połącz postaci"** — scalenie statystyk postaci.
 
-## 11. Interfejs i języki
+## 10. Interfejs i języki
 
 - **Języki**: rosyjski, angielski, polski (zmiana języka — z ponownym uruchomieniem).
 - **Motyw okien** — ciemno-złote menu kontekstowe, jednolite style list i pasków przewijania.
