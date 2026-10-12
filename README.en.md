@@ -29,6 +29,8 @@
   - `Ctrl+F3` — hide/show event timers (they automatically appear 15 minutes before the start, even when hidden).
 - The HUD window is visible **only above the active game window** (attached to BrokenRanks.exe); auto-collapse and quick expand are supported.
 
+<img src="images/hud.png" alt="Main HUD window" width="347">
+
 ## 3. Statistics windows
 
 Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts Monday 00:00) and **game month** (starts the 1st at 00:00) — by Polish (server) time, plus character filters.
@@ -41,12 +43,18 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
   - **Boss fees** — actual payments for boss entries;
   - **Arena** — arena statistics and entry fees by level.
 
+<img src="images/stats.png" alt="Statistics window" width="498">
+
+<img src="images/analytics.png" alt="Analytics window" width="735">
+
 ## 4. Goals and progress
 
 - **Goal progress bars** — a separate window with a bar for each goal.
 - **Live goal: desired item set** — set a list of items and the HUD will hint what has already dropped/collected; item selection via a picker window.
 - **Goal ETA** — estimated time to reach the goal; for limited locations — a calendar deadline; respects the rare chance cap.
 - Goals can be set for shards, psycho, gold and item sets.
+
+<img src="images/goals.png" alt="Goal progress bars" width="446">
 
 ## 5. Storage
 
@@ -56,16 +64,22 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 - **Filters and categories** — search (including without apostrophes), "Bound" checkbox, golden border for the selection, gold and platinum icons.
 - Items outside combat are shown as well ("+N" icon for incoming items).
 
+<img src="images/storage.png" alt="Storage" width="381">
+
 ## 6. Assembly
 
 - **"Assembly" window** — what can already be combined from chest contents (drifts, orbs, synergistics) by the game rules: drifts compared by size, orbs grouped by level category, synergistics summarized by rank.
 - **Tile view** with names from the packet, page-by-page switching.
 - "Synergistics" tab — composition info by ranks.
 
+<img src="images/assembly.png" alt="Assembly window" width="381">
+
 ## 7. Favorites and notifications
 
 - **Favorites** — mark valuable items, orbs and drifts, equipment for visual notification when looted.
 - **Popup notifications** — loot/expense icons appear to the right of the HUD header on a transparent background; icon size, opacity and display time are adjustable.
+
+<img src="images/notifications.png" alt="Favorites and notifications" width="440">
 
 ## 8. Events
 
@@ -74,12 +88,14 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 - **Display** — standard: text; experimental: round icons with visual timer countdown like on the in-game map.
 - **Screen edge snapping** and mirror layout (for multiple monitors); circle size is remembered.
 
-## 10. Data and import
+<img src="images/events.png" alt="Event timers" width="420">
+
+## 9. Data and import
 
 - **Import from BrokenHud** — migrate sessions from a third-party tool.
 - **Import of our database** and the **"Merge characters"** window — merge character statistics.
 
-## 11. Interface and languages
+## 10. Interface and languages
 
 - **Languages**: Russian, English, Polish (language switch requires a restart).
 - **Window themes** — dark-gold context menus, unified list and scrollbar styles.
