@@ -81,7 +81,38 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 
 <img src="images/notifications.png" alt="Ulubione i powiadomienia" width="440">
 
-## 8. Wydarzenia
+## 8. Czat
+
+- **Śledzenie czatu w grze** — okno „Czaty" (menu „Czaty") zapisuje wiadomości gry w czasie
+  rzeczywistym, szuka słów kluczowych i pokazuje powiadomienia.
+- **Główny przełącznik** — „Nagrywaj i przetwarzaj czat"; czat jest domyślnie **wyłączony**.
+  Gdy pole nie jest zaznaczone, wiadomości nie są zapisywane, nie są sprawdzane pod kątem
+  słów-triggerów i nie dają powiadomień. Stan jest zapamiętywany między uruchomieniami.
+- **Dziennik wiadomości** — tabela „Czas · Nick · Wiadomość", najnowsze na górze; wzmianka
+  o twoim nicku jest podświetlona na złoto, uruchomiony trigger — na pomarańczowo.
+  Automatyczne przewijanie, wyszukiwanie po nicku/tekście, kopiowanie prawym przyciskiem
+  (nick / wiadomość / wszystko), czyszczenie pliku i otwieranie dziennika w edytorze.
+- **Filtr postaci** — pokazuj tylko zaznaczone; **ignorowanie** — ukryj wybrane z dziennika
+  i wycisz ich powiadomienia (wiadomości nadal trafiają do pliku).
+- **Słowa-triggery** — lista słów kluczowych, przy których pojawia się powiadomienie:
+  dodawanie, edycja w miejscu (podwójne kliknięcie), usuwanie oraz **pole wyboru
+  włączenia/wyłączenia słowa** — odznaczone tymczasowo wyłącza szukanie, słowo pozostaje
+  na liście i jest przygaszone.
+- **Wyszukiwanie rozmyte** — łapie odmiany i literówki: pierwsza litera musi się zgadzać,
+  dokładne wystąpienie od początku słowa, w przeciwnym razie dopuszczalne 1–2 literówki
+  (słowa krótsze niż 4 litery — tylko dokładnie; triggery zaczynające się od znaku
+  niebędącego literą — dokładne wystąpienie). Kombinacja słów działa, gdy wszystkie słowa
+  są w wiadomości w dowolnej kolejności.
+- **Powiadomienia** — wyskakujący toast w prawym dolnym rogu (7 sekund) i „przyklejona"
+  odznaka nieprzeczytanych z licznikiem na pasku powiadomień, dopóki okno „Czaty" nie
+  zostanie otwarte.
+- **Plik dziennika** — `chat_log.txt` obok programu, UTF-8 bez BOM; w pamięci ostatnie
+  3000 wiadomości, w pliku — wszystkie (pole „Cała historia" czyta plik za wszystkie dni).
+- **Lokalizacja** — rosyjski, angielski, polski.
+
+<img src="images/chat.png" alt="Okno Czaty" width="520">
+
+## 9. Wydarzenia
 
 - **Wybór wydarzeń** — które pokazywać; wymaga otwarcia mapy w grze.
 - **Timery wydarzeń** — okrągłe timery na ekranie (pojawiają się 15 minut przed startem, automatyczne przedłużanie dla Jastrząb/Wendigo).
@@ -90,12 +121,12 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 
 <img src="images/events.png" alt="Timery wydarzeń" width="420">
 
-## 9. Dane i import
+## 10. Dane i import
 
 - **Import z BrokenHud** — przeniesienie sesji z zewnętrznego programu.
 - **Import naszej bazy** i okno **„Połącz postaci"** — scalenie statystyk postaci.
 
-## 10. Interfejs i języki
+## 11. Interfejs i języki
 
 - **Języki**: rosyjski, angielski, polski (zmiana języka — z ponownym uruchomieniem).
 - **Motyw okien** — ciemno-złote menu kontekstowe, jednolite style list i pasków przewijania.

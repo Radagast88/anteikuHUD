@@ -81,7 +81,35 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 
 <img src="images/notifications.png" alt="Favorites and notifications" width="440">
 
-## 8. Events
+## 8. Chat
+
+- **In-game chat tracking** — the "Chats" window (menu "Chats") records game messages in
+  real time, searches for keywords and shows notifications.
+- **Main switch** — "Record and process chat"; the chat is **off** by default. While the
+  checkbox is off, messages are not saved, not checked for trigger words and produce no
+  notifications. The state is remembered between launches.
+- **Message log** — table "Time · Nick · Message", newest on top; your nick mention is
+  highlighted in gold, a fired trigger in orange. Auto-scroll, search by nick/text,
+  right-click copy (nick / message / all), clear the file and open the log in an editor.
+- **Character filter** — show only checked characters; **ignore** — hide the selected ones
+  from the log and mute their notifications (messages are still written to the file).
+- **Trigger words** — a list of keywords that pop up a notification: add, edit in place
+  (double-click), delete and an **enable/disable checkbox** — unchecked temporarily turns
+  the search off, the word stays in the list and is dimmed.
+- **Fuzzy search** — catches inflections and typos: the first letter must match, an exact
+  match from the start of the word, otherwise 1–2 typos are allowed (words shorter than
+  4 letters — exact only; triggers not starting with a letter — exact match). A word
+  combination fires when all words are present in any order.
+- **Notifications** — a popup toast in the bottom-right corner (7 seconds) and a sticky
+  unread badge with a counter in the notification bar until the "Chats" window is opened.
+- **Log file** — `chat_log.txt` next to the program, UTF-8 without BOM; the last 3000
+  messages are kept in memory, all of them in the file ("Full history" checkbox reads the
+  file for all days).
+- **Localization** — Russian, English, Polish.
+
+<img src="images/chat.png" alt="Chats window" width="520">
+
+## 9. Events
 
 - **Event selection** — choose which events to show; requires opening the map in the game.
 - **Event timers** — round timers on screen (appear 15 minutes before the start, auto-extend for Hawk/Wendigo).
@@ -90,12 +118,12 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 
 <img src="images/events.png" alt="Event timers" width="420">
 
-## 9. Data and import
+## 10. Data and import
 
 - **Import from BrokenHud** — migrate sessions from a third-party tool.
 - **Import of our database** and the **"Merge characters"** window — merge character statistics.
 
-## 10. Interface and languages
+## 11. Interface and languages
 
 - **Languages**: Russian, English, Polish (language switch requires a restart).
 - **Window themes** — dark-gold context menus, unified list and scrollbar styles.
