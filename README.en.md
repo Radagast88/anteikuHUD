@@ -81,7 +81,30 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 
 <img src="images/notifications.png" alt="Favorites and notifications" width="440">
 
-## 8. Chat
+## 8. Champion tracking (respawn tracker)
+
+- **Champion catalogue** — every Broken Ranks champion with its respawn time, grouped by
+  location; the window has three tabs: **"Running"**, **"Favorites"** and **"All"**.
+- **Respawn timers** — click a tile to start a countdown to the champion's respawn. The
+  countdown uses the time from the catalogue (for champions with a range — the minimum).
+- **"Running" tab** — only live timers: both those still counting down to respawn and those
+  whose respawn has already happened (the green window). The list updates itself as time passes.
+- **Green respawn window** — when the countdown hits zero, the tile switches to a green
+  "RESPAWN M:SS" counter: the respawn is already possible and lasts that long (the difference
+  between the minimum and maximum time). When the window closes, the timer resets.
+- **"Respawn soon" warning** — 5 minutes before the champion respawns.
+- **Badges in the notification bar by the HUD** — champion readiness is shown as an icon next
+  to the main window; clicking the badge opens the tracker window.
+- **Favorites** — the ★ star on a tile adds the champion to favorites; when such a champion is
+  killed, a "Start timer?" bubble pops up — the timer starts with a single click.
+- **Doubled champions** — Tomb and Nixoflower live in a location as two copies: each gets two
+  tiles with separate timers.
+- **Tile tooltip** — the respawn time and a hint of how long the champion stays before vanishing.
+- **Multiple monitors** — timers and badges work correctly at any HUD position.
+
+<img src="images/champ_tracker.png" alt="Champion tracking window" width="520">
+
+## 9. Chat
 
 - **In-game chat tracking** — the "Chats" window (menu "Chats") records game messages in
   real time, searches for keywords and shows notifications.
@@ -109,7 +132,7 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 
 <img src="images/chat.png" alt="Chats window" width="520">
 
-## 9. Events
+## 10. Events
 
 - **Event selection** — choose which events to show; requires opening the map in the game.
 - **Event timers** — round timers on screen (appear 15 minutes before the start, auto-extend for Hawk/Wendigo).
@@ -118,12 +141,12 @@ Windows with period filters: **today, 24 hours, 7/30 days, game week** (starts M
 
 <img src="images/events.png" alt="Event timers" width="420">
 
-## 10. Data and import
+## 11. Data and import
 
 - **Import from BrokenHud** — migrate sessions from a third-party tool.
 - **Import of our database** and the **"Merge characters"** window — merge character statistics.
 
-## 11. Interface and languages
+## 12. Interface and languages
 
 - **Languages**: Russian, English, Polish (language switch requires a restart).
 - **Window themes** — dark-gold context menus, unified list and scrollbar styles.

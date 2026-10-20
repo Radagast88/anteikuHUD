@@ -81,7 +81,30 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 
 <img src="images/notifications.png" alt="Ulubione i powiadomienia" width="440">
 
-## 8. Czat
+## 8. Łowienie czempionów (tracker respawnu)
+
+- **Katalog czempionów** — wszystkie czempiony Broken Ranks z czasem odrodzenia, pogrupowane
+  według lokacji; okno ma trzy zakładki: **„Uruchomione"**, **„Ulubione"** i **„Wszystkie"**.
+- **Timery respawnu** — kliknięcie kafelka uruchamia odliczanie do odrodzenia czempiona.
+  Odliczanie korzysta z czasu z katalogu (dla czempionów z zakresem — od minimalnego).
+- **Zakładka „Uruchomione"** — tylko żywe timery: zarówno te wciąż odliczające do respawnu,
+  jak i te, których respawn już nastąpił (zielone okno). Lista odświeża się sama w miarę upływu czasu.
+- **Zielone okno respawnu** — gdy odliczanie osiągnie zero, kafelek przechodzi w zielony licznik
+  „RESPAWN M:SS": respawn jest już możliwy i trwa tyle (różnica między czasem minimalnym
+  a maksymalnym). Gdy okno się zamyka, timer się zeruje.
+- **Ostrzeżenie „wkrótce respawn"** — 5 minut przed odrodzeniem czempiona.
+- **Ikony na pasku powiadomień przy HUD** — gotowość czempiona pokazana jako ikona obok
+  głównego okna; kliknięcie ikony otwiera okno trackera.
+- **Ulubione** — gwiazdka ★ na kafelku dodaje czempiona do ulubionych; gdy taki czempion
+  zostanie zabity, wyświetla się dymek „Uruchomić timer?" — timer startuje jednym kliknięciem.
+- **Podwojone czempiony** — Grobowiec i Niksoflor żyją w lokacji jako dwie kopie: każda dostaje
+  dwa kafelki z osobnymi timerami.
+- **Podpowiedź kafelka** — czas respawnu i wskazówka, jak długo czempion czeka przed zniknięciem.
+- **Wiele monitorów** — timery i ikony działają poprawnie przy dowolnym położeniu HUD.
+
+<img src="images/champ_tracker.png" alt="Okno łowienia czempionów" width="520">
+
+## 9. Czat
 
 - **Śledzenie czatu w grze** — okno „Czaty" (menu „Czaty") zapisuje wiadomości gry w czasie
   rzeczywistym, szuka słów kluczowych i pokazuje powiadomienia.
@@ -112,7 +135,7 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 
 <img src="images/chat.png" alt="Okno Czaty" width="520">
 
-## 9. Wydarzenia
+## 10. Wydarzenia
 
 - **Wybór wydarzeń** — które pokazywać; wymaga otwarcia mapy w grze.
 - **Timery wydarzeń** — okrągłe timery na ekranie (pojawiają się 15 minut przed startem, automatyczne przedłużanie dla Jastrząb/Wendigo).
@@ -121,12 +144,12 @@ Dostępne okna z filtrami okresu: **dzisiaj, 24 godziny, 7/30 dni, tydzień gry*
 
 <img src="images/events.png" alt="Timery wydarzeń" width="420">
 
-## 10. Dane i import
+## 11. Dane i import
 
 - **Import z BrokenHud** — przeniesienie sesji z zewnętrznego programu.
 - **Import naszej bazy** i okno **„Połącz postaci"** — scalenie statystyk postaci.
 
-## 11. Interfejs i języki
+## 12. Interfejs i języki
 
 - **Języki**: rosyjski, angielski, polski (zmiana języka — z ponownym uruchomieniem).
 - **Motyw okien** — ciemno-złote menu kontekstowe, jednolite style list i pasków przewijania.
