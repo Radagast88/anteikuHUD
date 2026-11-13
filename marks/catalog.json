@@ -4,8 +4,8 @@
   "updated": "2026-11-14",
   "groups": [
     {
-      "id": "anteikuhud_gruppa_sokrovischa_20261114_0004_anteikuhud_marks",
-      "name": "anteikuHUD_gruppa_Сокровища_20261114_0004.anteikuhud-marks",
+      "id": "sokrovischa",
+      "name": "Сокровища",
       "markers": [
         {
           "map": 301,
