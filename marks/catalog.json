@@ -88,6 +88,14 @@
           "icon": "icons/world/treasure.png"
         },
         {
+          "map": 381,
+          "name": "Сокровище: Оккупированная Талия",
+          "type": "item",
+          "x": 51.53,
+          "y": 65.58,
+          "icon": "icons/world/treasure.png"
+        },
+        {
           "map": 90,
           "name": "Сокровище: Плато Дмортер",
           "type": "item",
@@ -117,6 +125,14 @@
           "type": "item",
           "x": 15.58,
           "y": 63.04,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 258,
+          "name": "Сокровище: Шалман",
+          "type": "item",
+          "x": 62.48,
+          "y": 29.23,
           "icon": "icons/world/treasure.png"
         },
         {
@@ -312,6 +328,14 @@
           "icon": "icons/world/treasure.png"
         },
         {
+          "map": 12,
+          "name": "Сокровище: Пещеры под Топями",
+          "type": "item",
+          "x": 23.69,
+          "y": 71.23,
+          "icon": "icons/world/treasure.png"
+        },
+        {
           "map": 13,
           "name": "Сокровище: Пещеры под Границей",
           "type": "item",
@@ -476,6 +500,14 @@
           "icon": "icons/world/treasure.png"
         },
         {
+          "map": 211,
+          "name": "Сокровище: Деревня друидов",
+          "type": "item",
+          "x": 52.21,
+          "y": 67.11,
+          "icon": "icons/world/treasure.png"
+        },
+        {
           "map": 249,
           "name": "Сокровище: Лаборатория",
           "type": "item",
@@ -505,6 +537,14 @@
           "type": "item",
           "x": 53.78,
           "y": 29.68,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 36,
+          "name": "Сокровище: Горы Колдов",
+          "type": "item",
+          "x": 73.64,
+          "y": 73.24,
           "icon": "icons/world/treasure.png"
         },
         {
@@ -636,6 +676,14 @@
           "icon": "icons/world/treasure.png"
         },
         {
+          "map": 289,
+          "name": "Сокровище: Лес Колдов",
+          "type": "item",
+          "x": 59.41,
+          "y": 43.71,
+          "icon": "icons/world/treasure.png"
+        },
+        {
           "map": 310,
           "name": "Сокровище: Пограничный пост",
           "type": "item",
@@ -649,6 +697,22 @@
           "type": "item",
           "x": 20.61,
           "y": 62.33,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 35,
+          "name": "Сокровище: Лес Орков",
+          "type": "item",
+          "x": 19.43,
+          "y": 10.11,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 35,
+          "name": "Сокровище: Лес Орков",
+          "type": "item",
+          "x": 56.99,
+          "y": 59.27,
           "icon": "icons/world/treasure.png"
         },
         {
@@ -673,6 +737,454 @@
           "type": "item",
           "x": 79.65,
           "y": 46.91,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 6,
+          "name": "Сокровище: Гробница",
+          "type": "item",
+          "x": 54.93,
+          "y": 55.56,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 10,
+          "name": "Сокровище: Руины башни - уровень II",
+          "type": "item",
+          "x": 84.34,
+          "y": 63.55,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 31,
+          "name": "Сокровище: Пещера Голема",
+          "type": "item",
+          "x": 78.97,
+          "y": 48.55,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 32,
+          "name": "Сокровище: Драконья Пещера",
+          "type": "item",
+          "x": 53.55,
+          "y": 75.94,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 57,
+          "name": "Сокровище: Медвежья пещера",
+          "type": "item",
+          "x": 15.5,
+          "y": 90.07,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 57,
+          "name": "Сокровище: Медвежья пещера",
+          "type": "item",
+          "x": 37.66,
+          "y": 19.3,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 58,
+          "name": "Сокровище: Волчья пещера",
+          "type": "item",
+          "x": 83.25,
+          "y": 32.91,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 59,
+          "name": "Сокровище: Берлога",
+          "type": "item",
+          "x": 30.24,
+          "y": 76.18,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 69,
+          "name": "Сокровище: Чертоги стражи",
+          "type": "item",
+          "x": 18.98,
+          "y": 66.52,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 75,
+          "name": "Сокровище: Храм",
+          "type": "item",
+          "x": 62.78,
+          "y": 62.23,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 75,
+          "name": "Сокровище: Храм",
+          "type": "item",
+          "x": 14.93,
+          "y": 55.74,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 76,
+          "name": "Сокровище: Темный Пассаж",
+          "type": "item",
+          "x": 19.2,
+          "y": 87.4,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 77,
+          "name": "Сокровище: Темница",
+          "type": "item",
+          "x": 13.56,
+          "y": 88.2,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 78,
+          "name": "Сокровище: Палатка орочьего вождя",
+          "type": "item",
+          "x": 18.81,
+          "y": 52.07,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 81,
+          "name": "Сокровище: Пещеры насекомых",
+          "type": "item",
+          "x": 44.9,
+          "y": 30.27,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 87,
+          "name": "Сокровище: Пещеры насекомых",
+          "type": "item",
+          "x": 39.34,
+          "y": 71.67,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 88,
+          "name": "Сокровище: Пещера Богомола",
+          "type": "item",
+          "x": 15.39,
+          "y": 74.42,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 100,
+          "name": "Сокровище: Укрытие",
+          "type": "item",
+          "x": 43.25,
+          "y": 27.92,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 155,
+          "name": "Сокровище: Естественный проход",
+          "type": "item",
+          "x": 57.94,
+          "y": 32.89,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 162,
+          "name": "Сокровище: Гребень",
+          "type": "item",
+          "x": 75.42,
+          "y": 34.94,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 164,
+          "name": "Сокровище: Пещера на Массиве",
+          "type": "item",
+          "x": 26.11,
+          "y": 32.96,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 165,
+          "name": "Сокровище: Гарнизон Дмортер",
+          "type": "item",
+          "x": 83.04,
+          "y": 54.01,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 180,
+          "name": "Сокровище: Замерзшая хижина",
+          "type": "item",
+          "x": 15.94,
+          "y": 76.85,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 227,
+          "name": "Сокровище: Озерцо",
+          "type": "item",
+          "x": 66.29,
+          "y": 35.53,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 232,
+          "name": "Сокровище: Трясины",
+          "type": "item",
+          "x": 45.04,
+          "y": 32.72,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 252,
+          "name": "Сокровище: Перекресток",
+          "type": "item",
+          "x": 23.96,
+          "y": 46.19,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 256,
+          "name": "Сокровище: Волчья яма",
+          "type": "item",
+          "x": 30.9,
+          "y": 49.28,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 267,
+          "name": "Сокровище: Беирн",
+          "type": "item",
+          "x": 29.1,
+          "y": 54.99,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 267,
+          "name": "Сокровище: Беирн",
+          "type": "item",
+          "x": 18.02,
+          "y": 60.36,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 272,
+          "name": "Сокровище: Дом травницы",
+          "type": "item",
+          "x": 47.52,
+          "y": 80.79,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 272,
+          "name": "Сокровище: Дом травницы",
+          "type": "item",
+          "x": 23.37,
+          "y": 55.34,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 273,
+          "name": "Сокровище: Таверна под Пиком",
+          "type": "item",
+          "x": 54.07,
+          "y": 68.55,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 275,
+          "name": "Сокровище: Дом Маттея",
+          "type": "item",
+          "x": 27.63,
+          "y": 34.89,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 275,
+          "name": "Сокровище: Дом Маттея",
+          "type": "item",
+          "x": 50.76,
+          "y": 78.46,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 276,
+          "name": "Сокровище: Дом Солтыса",
+          "type": "item",
+          "x": 35.37,
+          "y": 61.6,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 276,
+          "name": "Сокровище: Дом Солтыса",
+          "type": "item",
+          "x": 78.5,
+          "y": 64.04,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 279,
+          "name": "Сокровище: Склон",
+          "type": "item",
+          "x": 91.2,
+          "y": 63.41,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 279,
+          "name": "Сокровище: Склон",
+          "type": "item",
+          "x": 87.9,
+          "y": 71.77,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 306,
+          "name": "Сокровище: Дом прислуги",
+          "type": "item",
+          "x": 81.87,
+          "y": 45.1,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 307,
+          "name": "Сокровище: Дом стражи",
+          "type": "item",
+          "x": 72.38,
+          "y": 45.32,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 314,
+          "name": "Сокровище: Нижняя палуба",
+          "type": "item",
+          "x": 93.54,
+          "y": 77.96,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 315,
+          "name": "Сокровище: Жилая палуба",
+          "type": "item",
+          "x": 47.15,
+          "y": 32.16,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 315,
+          "name": "Сокровище: Жилая палуба",
+          "type": "item",
+          "x": 22.2,
+          "y": 48.17,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 316,
+          "name": "Сокровище: Главная палуба",
+          "type": "item",
+          "x": 34.73,
+          "y": 44.94,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 316,
+          "name": "Сокровище: Главная палуба",
+          "type": "item",
+          "x": 39.19,
+          "y": 30.05,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 317,
+          "name": "Сокровище: Адмиральский Мостик",
+          "type": "item",
+          "x": 71.49,
+          "y": 47.55,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 321,
+          "name": "Сокровище: Поместье де Врис",
+          "type": "item",
+          "x": 28.74,
+          "y": 62.61,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 349,
+          "name": "Сокровище: Кладбище Ящериц",
+          "type": "item",
+          "x": 31.66,
+          "y": 56.19,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 359,
+          "name": "Сокровище: Штаб Оставшихся",
+          "type": "item",
+          "x": 74.47,
+          "y": 82.12,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 360,
+          "name": "Сокровище: Волчья пещера",
+          "type": "item",
+          "x": 72.42,
+          "y": 50.98,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 382,
+          "name": "Сокровище: Университетская Талия",
+          "type": "item",
+          "x": 18.88,
+          "y": 21.11,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 430,
+          "name": "Сокровище: Подвалы университета",
+          "type": "item",
+          "x": 24.89,
+          "y": 21.4,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 430,
+          "name": "Сокровище: Подвалы университета",
+          "type": "item",
+          "x": 75.54,
+          "y": 46.57,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 439,
+          "name": "Сокровище: Серые Аллеи",
+          "type": "item",
+          "x": 43.15,
+          "y": 32.9,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 451,
+          "name": "Сокровище: Подвал",
+          "type": "item",
+          "x": 53.52,
+          "y": 24.05,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 462,
+          "name": "Сокровище: Подвал",
+          "type": "item",
+          "x": 59.95,
+          "y": 36.13,
           "icon": "icons/world/treasure.png"
         }
       ]
