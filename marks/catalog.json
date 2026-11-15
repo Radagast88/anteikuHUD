@@ -1,7 +1,7 @@
 {
   "format": "anteikuHUD-marks-catalog",
   "version": 1,
-  "updated": "2026-11-14",
+  "updated": "2026-11-16",
   "groups": [
     {
       "id": "sokrovischa",
@@ -1148,6 +1148,14 @@
           "icon": "icons/world/treasure.png"
         },
         {
+          "map": 382,
+          "name": "Сокровище: Университетская Талия",
+          "type": "item",
+          "x": 81.59,
+          "y": 65.25,
+          "icon": "icons/world/treasure.png"
+        },
+        {
           "map": 430,
           "name": "Сокровище: Подвалы университета",
           "type": "item",
@@ -1185,6 +1193,62 @@
           "type": "item",
           "x": 59.95,
           "y": 36.13,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 99,
+          "name": "Сокровище: Укрытие",
+          "type": "item",
+          "x": 54.02,
+          "y": 57.56,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 299,
+          "name": "Сокровище: Остров Трифкина",
+          "type": "item",
+          "x": 41.64,
+          "y": 25.05,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 299,
+          "name": "Сокровище: Остров Трифкина",
+          "type": "item",
+          "x": 42.27,
+          "y": 68.53,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 304,
+          "name": "Сокровище: Спальня трифкина",
+          "type": "item",
+          "x": 76.72,
+          "y": 52.06,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 428,
+          "name": "Сокровище: Первый этаж университета",
+          "type": "item",
+          "x": 83.2,
+          "y": 31.97,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 429,
+          "name": "Сокровище: Второй этаж университета",
+          "type": "item",
+          "x": 83.13,
+          "y": 40.9,
+          "icon": "icons/world/treasure.png"
+        },
+        {
+          "map": 429,
+          "name": "Сокровище: Второй этаж университета",
+          "type": "item",
+          "x": 16.64,
+          "y": 54.77,
           "icon": "icons/world/treasure.png"
         }
       ]
